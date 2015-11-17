@@ -1,0 +1,519 @@
+UnitOfWork 1
+Project 1 1
+ResearchProject 1 1 1
+Case 1 2
+LegalCase 1 2 1
+SupremeCourtOfTheUnitedStatesCase 1 2 1 1
+Disease 2
+cidoccrm:E4_Period 3
+Activity 4
+Sport 4 1
+Game 4 2
+BoardGame 4 2 1
+Tax 5
+Listen 6
+ChemicalSubstance 7
+Mineral 7 1
+ChemicalCompound 7 2
+ChemicalElement 7 3
+AnatomicalStructure 8
+Nerve 8 1
+Brain 8 2
+Ligament 8 3
+Embryology 8 4
+Muscle 8 5
+Bone 8 6
+Vein 8 7
+Artery 8 8
+Lymph 8 9
+MeanOfTransportation 9
+Locomotive 9 1
+Automobile 9 2
+SpaceStation 9 3
+Spacecraft 9 4
+Ship 9 5
+Rocket 9 6
+Train 9 7
+Aircraft 9 8
+SpaceShuttle 9 9
+Name 10
+GivenName 10 1
+Surname 10 2
+Colour 11
+Biomolecule 12
+Gene 12 1
+MouseGene 12 1 1
+HumanGene 12 1 2
+Enzyme 12 2
+Protein 12 3
+Swarm 13
+Openswarm 13 1
+Globularswarm 13 2
+Sales 14
+Language 15
+Unknown 16
+Currency 17
+Database 18
+BiologicalDatabase 18 1
+Work 19
+WrittenWork 19 1
+Installment 19 1 1
+Play 19 1 2
+PeriodicalLiterature 19 1 3
+Newspaper 19 1 3 1
+AcademicJournal 19 1 3 2
+Magazine 19 1 3 3
+Drama 19 1 4
+Book 19 1 5
+Novel 19 1 5 1
+LightNovel 19 1 5 1 1
+Comics 19 1 6
+Manhua 19 1 6 1
+Manhwa 19 1 6 2
+Manga 19 1 6 3
+MultiVolumePublication 19 1 7
+Comic 19 1 8
+Artwork 19 2
+Sculpture 19 2 1
+Painting 19 2 2
+Film 19 3
+Website 19 4
+Cartoon 19 5
+Anime 19 5 1
+HollywoodCartoon 19 5 2
+TelevisionShow 19 6
+TelevisionSeason 19 7
+RadioProgram 19 8
+TelevisionEpisode 19 9
+CollectionOfValuables 19 10
+LineOfFashion 19 11
+Software 19 12
+VideoGame 19 12 1
+ProgrammingLanguage 19 12 2
+MusicalWork 19 13
+Song 19 13 1
+EurovisionSongContestEntry 19 13 1 1
+Single 19 13 2
+Album 19 13 3
+Opera 19 13 4
+ArtistDiscography 19 13 5
+Musical 19 14
+CelestialBody 20
+Galaxy 20 1
+Asteroid 20 2
+Star 20 3
+Constellation 20 4
+Planet 20 5
+TopicalConcept 21
+ChristianDoctrine 21 1
+Fashion 21 2
+Ideology 21 3
+GovernmentType 21 4
+Genre 21 5
+MusicGenre 21 5 1
+MovieGenre 21 5 2
+SystemOfLaw 21 6
+List 22
+TrackList 22 1
+Species 23
+Archaea 23 1
+Eukaryote 23 2
+Fungus 23 2 1
+Plant 23 2 2
+Gnetophytes 23 2 2 1
+Ginkgo 23 2 2 2
+GreenAlga 23 2 2 3
+Conifer 23 2 2 4
+Moss 23 2 2 5
+CultivatedVariety 23 2 2 6
+ClubMoss 23 2 2 7
+Cycad 23 2 2 8
+Fern 23 2 2 9
+FloweringPlant 23 2 2 10
+Grape 23 2 2 10 1
+Animal 23 2 3
+Mammal 23 2 3 1
+RaceHorse 23 2 3 1 1
+Dog 23 2 3 1 2
+Reptile 23 2 3 2
+Bird 23 2 3 3
+Crustacean 23 2 3 4
+Arachnid 23 2 3 5
+Fish 23 2 3 6
+Mollusca 23 2 3 7
+Insect 23 2 3 8
+Amphibian 23 2 3 9
+Bacteria 23 3
+Food 24
+Cheese 24 1
+Beverage 24 2
+Wine 24 2 1
+ControlledDesignationOfOriginWine 24 2 1 1
+Beer 24 2 2
+Drug 25
+Imdb 26
+Agent 27
+Deity 27 1
+Organisation 27 2
+SambaSchool 27 2 1
+PoliticalParty 27 2 2
+Group 27 2 3
+Company 27 2 4
+Airline 27 2 4 1
+RecordLabel 27 2 4 2
+Publisher 27 2 4 3
+LawFirm 27 2 4 4
+TradeUnion 27 2 5
+Legislature 27 2 6
+Band 27 2 7
+SportsTeam 27 2 8
+SoccerClub 27 2 8 1
+NationalSoccerClub 27 2 8 1 1
+SpeedwayTeam 27 2 8 2
+BasketballTeam 27 2 8 3
+RugbyClub 27 2 8 4
+BaseballTeam 27 2 8 5
+CanadianFootballTeam 27 2 8 6
+AmericanFootballTeam 27 2 8 7
+CyclingTeam 27 2 8 8
+HockeyTeam 27 2 8 9
+ComedyGroup 27 2 9
+Non-ProfitOrganisation 27 2 10
+ClericalOrder 27 2 11
+SportsLeague 27 2 12
+CyclingLeague 27 2 12 1
+IceHockeyLeague 27 2 12 2
+BasketballLeague 27 2 12 3
+CanadianFootballLeague 27 2 12 4
+RugbyLeague 27 2 12 5
+AmericanFootballLeague 27 2 12 6
+BaseballLeague 27 2 12 7
+LacrosseLeague 27 2 12 8
+VideogamesLeague 27 2 12 9
+BowlingLeague 27 2 12 10
+HandballLeague 27 2 12 11
+FormulaOneRacing 27 2 12 12
+CurlingLeague 27 2 12 13
+VolleyballLeague 27 2 12 14
+InlineHockeyLeague 27 2 12 15
+MotorcycleRacingLeague 27 2 12 16
+MixedMartialArtsLeague 27 2 12 17
+SoftballLeague 27 2 12 18
+FieldHockeyLeague 27 2 12 19
+GolfLeague 27 2 12 20
+BoxingLeague 27 2 12 21
+RadioControlledRacingLeague 27 2 12 22
+AustralianFootballLeague 27 2 12 23
+SpeedwayLeague 27 2 12 24
+PaintballLeague 27 2 12 25
+CricketLeague 27 2 12 26
+PoloLeague 27 2 12 27
+SoccerLeague 27 2 12 28
+TennisLeague 27 2 12 29
+AutoRacingLeague 27 2 12 30
+GovernmentAgency 27 2 13
+MilitaryUnit 27 2 14
+EducationalInstitution 27 2 15
+School 27 2 15 1
+University 27 2 15 2
+College 27 2 15 3
+Library 27 2 15 4
+GeopoliticalOrganisation 27 2 16
+Broadcaster 27 2 17
+BroadcastNetwork 27 2 17 1
+TelevisionStation 27 2 17 2
+RadioStation 27 2 17 3
+Family 27 3
+Person 27 4
+Artist 27 4 1
+MusicalArtist 27 4 1 1
+ComicsCreator 27 4 1 2
+FashionDesigner 27 4 1 3
+Comedian 27 4 1 4
+Sculptor 27 4 1 5
+Actor 27 4 1 6
+Pornstar 27 4 1 6 1
+AdultActor 27 4 1 6 2
+VoiceActor 27 4 1 6 3
+Painter 27 4 1 7
+Writer 27 4 1 8
+Astronaut 27 4 2
+Chef 27 4 3
+Journalist 27 4 4
+Ambassador 27 4 5
+PlayboyPlaymate 27 4 6
+Athlete 27 4 7
+Swimmer 27 4 7 1
+TableTennisPlayer 27 4 7 2
+Curler 27 4 7 3
+LacrossePlayer 27 4 7 4
+ChessPlayer 27 4 7 5
+MartialArtist 27 4 7 6
+Cyclist 27 4 7 7
+Boxer 27 4 7 8
+AmateurBoxer 27 4 7 8 1
+NetballPlayer 27 4 7 9
+BasketballPlayer 27 4 7 10
+Jockey 27 4 7 11
+DartsPlayer 27 4 7 12
+AustralianRulesFootballPlayer 27 4 7 13
+BadmintonPlayer 27 4 7 14
+IceHockeyPlayer 27 4 7 15
+TennisPlayer 27 4 7 16
+BaseballPlayer 27 4 7 17
+NationalCollegiateAthleticAssociationAthlete 27 4 7 18
+RacingDriver 27 4 7 19
+NascarDriver 27 4 7 19 1
+FormulaOneRacer 27 4 7 19 2
+Skier 27 4 7 20
+Cricketer 27 4 7 21
+FigureSkater 27 4 7 22
+MotorcycleRider 27 4 7 23
+SpeedwayRider 27 4 7 23 1
+Bodybuilder 27 4 7 24
+Gymnast 27 4 7 25
+BullFighter 27 4 7 26
+SoccerPlayer 27 4 7 27
+GolfPlayer 27 4 7 28
+Skater 27 4 7 29
+GridironFootballPlayer 27 4 7 30
+AmericanFootballPlayer 27 4 7 30 1
+CanadianFootballPlayer 27 4 7 30 2
+TeamMember 27 4 7 31
+HandballPlayer 27 4 7 32
+PokerPlayer 27 4 7 33
+SnookerPlayer 27 4 7 34
+SnookerChamp 27 4 7 34 1
+VolleyballPlayer 27 4 7 35
+BeachVolleyballPlayer 27 4 7 35 1
+GaelicGamesPlayer 27 4 7 36
+SquashPlayer 27 4 7 37
+Wrestler 27 4 7 38
+SumoWrestler 27 4 7 38 1
+RugbyPlayer 27 4 7 39
+Criminal 27 4 8
+Murderer 27 4 8 1
+Politician 27 4 9
+President 27 4 9 1
+Governor 27 4 9 2
+Chancellor 27 4 9 3
+Mayor 27 4 9 4
+Lieutenant 27 4 9 5
+VicePrimeMinister 27 4 9 6
+Deputy 27 4 9 7
+VicePresident 27 4 9 8
+Senator 27 4 9 9
+MemberOfParliament 27 4 9 10
+PrimeMinister 27 4 9 11
+Congressman 27 4 9 12
+Engineer 27 4 10
+Royalty 27 4 11
+BritishRoyalty 27 4 11 1
+PolishKing 27 4 11 2
+Celebrity 27 4 12
+FictionalCharacter 27 4 13
+SoapCharacter 27 4 13 1
+ComicsCharacter 27 4 13 2
+AnimangaCharacter 27 4 13 2 1
+CollegeCoach 27 4 14
+Referee 27 4 15
+Noble 27 4 16
+Cleric 27 4 17
+Pope 27 4 17 1
+Priest 27 4 17 2
+Cardinal 27 4 17 3
+ChristianBishop 27 4 17 4
+ChristianPatriarch 27 4 17 5
+Saint 27 4 17 6
+Monarch 27 4 18
+Scientist 27 4 19
+Professor 27 4 19 1
+Medician 27 4 19 2
+MilitaryPerson 27 4 20
+Philosopher 27 4 21
+Host 27 4 22
+BeautyQueen 27 4 23
+VolleyballCoach 27 4 24
+Architect 27 4 25
+Economist 27 4 26
+SportsManager 27 4 27
+SoccerManager 27 4 27 1
+OfficeHolder 27 4 28
+Presenter 27 4 29
+TelevisionHost 27 4 29 1
+RadioHost 27 4 29 2
+Religious 27 4 30
+OrganisationMember 27 4 31
+SportsTeamMember 27 4 31 1
+Model 27 4 32
+Aristocrat 27 4 33
+HorseTrainer 27 4 34
+Judge 27 4 35
+PublicService 28
+PublicServiceInput 28 1
+PublicServiceOutput 28 2
+CareerStation 29
+EthnicGroup 30
+TimePeriod 31
+YearInSpaceflight 31 1
+ProtohistoricalPeriod 31 2
+Year 31 3
+PrehistoricalPeriod 31 4
+PeriodOfArtisticStyle 31 5
+GeologicalPeriod 31 6
+HistoricalPeriod 31 7
+SportCompetitionResult 32
+OlympicResult 32 1
+Device 33
+InformationAppliance 33 1
+Camera 33 2
+DigitalCamera 33 2 1
+AutomobileEngine 33 3
+Weapon 33 4
+Flag 34
+PersonFunction 35
+Polyhedron 36
+Letter 37
+Holiday 38
+Award 39
+Decoration 39 1
+PenaltyShootOut 40
+Event 41
+Convention 41 1
+FilmFestival 41 2
+SportsEvent 41 3
+TennisTournament 41 3 1
+WomensTennisAssociationTournament 41 3 2
+CyclingCompetition 41 3 3
+SoccerTournament 41 3 4
+GrandPrix 41 3 5
+Olympics 41 3 6
+OlympicEvent 41 3 6 1
+Race 41 3 7
+WrestlingEvent 41 3 8
+MixedMartialArtsEvent 41 3 9
+FootballMatch 41 3 10
+MilitaryConflict 41 4
+MusicFestival 41 5
+SpaceMission 41 6
+Election 41 7
+SnookerWorldRanking 42
+GeneLocation 43
+MouseGeneLocation 43 1
+HumanGeneLocation 43 2
+Blazon 44
+BloodType 45
+Place 46
+Monument 46 1
+Memorial 46 1 1
+NaturalPlace 46 2
+Volcano 46 2 1
+Cave 46 2 2
+BodyOfWater 46 2 3
+Stream 46 2 3 1
+Canal 46 2 3 1 1
+River 46 2 3 1 2
+Lake 46 2 3 2
+Sea 46 2 3 3
+Mountain 46 2 4
+Valley 46 2 5
+LunarCrater 46 2 6
+MountainRange 46 2 7
+ProtectedArea 46 3
+MountainPass 46 4
+HotSpring 46 5
+SkiResort 46 6
+HistoricPlace 46 7
+PopulatedPlace 46 8
+Settlement 46 8 1
+Town 46 8 1 1
+Village 46 8 1 2
+CityDistrict 46 8 1 3
+City 46 8 1 4
+IranSettlement 46 8 1 5
+Territory 46 8 2
+OldTerritory 46 8 2 1
+Department 46 8 3
+OverseasDepartment 46 8 3 1
+Intercommunality 46 8 4
+Continent 46 8 5
+Locality 46 8 6
+FrenchLocality 46 8 6 1
+State 46 8 7
+Prefecture 46 8 8
+Country 46 8 9
+Region 46 8 10
+AdministrativeRegion 46 8 10 1
+GovernmentalAdministrativeRegion 46 8 10 1 1
+Regency 46 8 10 1 1 1
+Municipality 46 8 10 1 1 2
+SubMunicipality 46 8 10 1 1 3
+DistrictWaterBoard 46 8 10 1 1 4
+District 46 8 10 1 1 5
+Province 46 8 10 1 1 6
+ClericalAdministrativeRegion 46 8 10 1 2
+Diocese 46 8 10 1 2 1
+Deanery 46 8 10 1 2 2
+Parish 46 8 10 1 2 3
+NaturalRegion 46 8 10 2
+Island 46 8 11
+Atoll 46 8 11 1
+ArchitecturalStructure 46 9
+Building 46 9 1
+Venue 46 9 1 1
+Theatre 46 9 1 1 1
+MilitaryStructure 46 9 1 2
+Factory 46 9 1 3
+Lighthouse 46 9 1 4
+Arena 46 9 1 5
+WaterTower 46 9 1 6
+Prison 46 9 1 7
+ReligiousBuilding 46 9 1 8
+Monastery 46 9 1 8 1
+Church 46 9 1 8 2
+Shrine 46 9 1 8 3
+Temple 46 9 1 8 4
+Mosque 46 9 1 8 5
+Synagogue 46 9 1 8 6
+Abbey 46 9 1 8 7
+Restaurant 46 9 1 9
+Casino 46 9 1 10
+Skyscraper 46 9 1 11
+Mill 46 9 1 12
+Windmill 46 9 1 12 1
+Watermill 46 9 1 12 2
+Treadmill 46 9 1 12 3
+WindMotor 46 9 1 12 4
+Museum 46 9 1 13
+Castle 46 9 1 14
+Hospital 46 9 1 15
+ShoppingMall 46 9 1 16
+HistoricBuilding 46 9 1 17
+Hotel 46 9 1 18
+Infrastructure 46 9 2
+Station 46 9 2 1
+RailwayStation 46 9 2 1 1
+LaunchPad 46 9 2 2
+PowerStation 46 9 2 3
+Airport 46 9 2 4
+RouteOfTransportation 46 9 2 5
+Tunnel 46 9 2 5 1
+WaterwayTunnel 46 9 2 5 1 1
+RoadTunnel 46 9 2 5 1 2
+RailwayTunnel 46 9 2 5 1 3
+PublicTransitSystem 46 9 2 5 2
+Road 46 9 2 5 3
+RoadJunction 46 9 2 5 4
+Bridge 46 9 2 5 5
+RailwayLine 46 9 2 5 6
+NoteworthyPartOfBuilding 46 9 3
+Park 46 9 4
+SiteOfSpecialScientificInterest 46 10
+WineRegion 46 11
+SportFacility 46 12
+Stadium 46 12 1
+RaceTrack 46 12 2
+Racecourse 46 12 2 1
+SkiArea 46 13
+WorldHeritageSite 46 14
+Community 46 15
